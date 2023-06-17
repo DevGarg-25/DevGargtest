@@ -19,9 +19,9 @@ A2) In HTML, tags are used to define the structure of a web page. They are used 
 
 There are four main categories of tags in HTML:
 
-1. Structural tags: Structural tags are used to define the structure of a web page. Eg: <h1> tag is used to mark up a heading, the <p> tag is used to mark up a paragraph, and the <table> tag is used to mark up a table.
+1. Structural tags: Structural tags are used to define the structure of a web page. Eg: <h1></h1> tag is used to mark up a heading, the <p> tag is used to mark up a paragraph, and the <table> tag is used to mark up a table.
 
-2. Formatting tags: Formatting tags are used to format the appearance of content. Eg: <b> tag is used to make text bold, the <i> tag is used to make text italic, and the <u> tag is used to underline text.
+2. Formatting tags: Formatting tags are used to format the appearance of content. Eg: <b></b> tag is used to make text bold, the <i></i> tag is used to make text italic, and the <u></u> tag is used to underline text.
 
 3. Input tags: Input tags are used to collect user input. Eg: <input type="text"> tag is used to create a text box, the <input type="radio"> tag is used to create a radio button, and the <input type="checkbox"> tag is used to create a check box.
 
